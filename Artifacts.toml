@@ -1,20 +1,20 @@
 [[rocSPARSE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "297d9ba1d217f09e60053e6f2a6e37373265d837"
+git-tree-sha1 = "1606bd10896552feae0d8518d787d059bb5a214f"
 libc = "glibc"
 os = "linux"
 
     [[rocSPARSE.download]]
-    sha256 = "7293989ee295aea53d784db87d729ae6ae05f9fdcdad18e3be4f5a537076bb10"
-    url = "https://github.com/JuliaBinaryWrappers/rocSPARSE_jll.jl/releases/download/rocSPARSE-v4.5.2+0/rocSPARSE.v4.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "91aefe19d2aa6d3b6710af78c8d19555a6e801472bfa5fb4487e3a9617a3ec79"
+    url = "https://github.com/JuliaBinaryWrappers/rocSPARSE_jll.jl/releases/download/rocSPARSE-v4.5.2+1/rocSPARSE.v4.5.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[rocSPARSE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fa49c71897707edc62f2817b46e315a084ea71ac"
+git-tree-sha1 = "bb25e6f955379e375b36b2f669c9caa3d793ec0b"
 libc = "musl"
 os = "linux"
 
     [[rocSPARSE.download]]
-    sha256 = "419634c8ece971263bf362dd0b12f955e05bb73b6c545e9274beeb639720c896"
-    url = "https://github.com/JuliaBinaryWrappers/rocSPARSE_jll.jl/releases/download/rocSPARSE-v4.5.2+0/rocSPARSE.v4.5.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "b3a6648bdc3959224c4a0700a755a8a508f7bb84e7f7d476c065c44bdb6318ef"
+    url = "https://github.com/JuliaBinaryWrappers/rocSPARSE_jll.jl/releases/download/rocSPARSE-v4.5.2+1/rocSPARSE.v4.5.2.x86_64-linux-musl-cxx11.tar.gz"
