@@ -1,6 +1,6 @@
 name = "rocSPARSE_jll"
 uuid = "8c6ce2ba-659c-5ec7-ba4c-37596cf1f22a"
-version = "5.2.3+0"
+version = "5.2.3+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
@@ -17,4 +17,11 @@ rocminfo_jll = "5a766526-3cf8-5128-8c31-4f7b7ad60f0e"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
+julia = "1.9"
+rocPRIM_jll = "5.2.3"
+ROCmCompilerSupport_jll = "5.2.3"
+ROCmDeviceLibs_jll = "5.2.3"
+hsa_rocr_jll = "5.2.3"
+HIP_jll = "5.2.3"
+ROCmOpenCLRuntime_jll = "5.2.3"
+rocminfo_jll = "5.2.3"
